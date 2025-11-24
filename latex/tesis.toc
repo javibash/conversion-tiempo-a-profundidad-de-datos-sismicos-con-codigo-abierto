@@ -1,0 +1,54 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {spanish}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Resumen}{\es@scroman {i}}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Abstract}{\es@scroman {iii}}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Lista de figuras}{\es@scroman {vii}}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Lista de tablas}{\es@scroman {viii}}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Introducci\IeC {\'o}n}{1}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Reproducibilidad computacional en representaci\IeC {\'o}n s\IeC {\'\i }smica}{3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.1}Relevancia del c\IeC {\'o}digo abierto}{4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.2}Papel del c\IeC {\'o}digo abierto en geociencias}{5}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}Conversi\IeC {\'o}n tiempo a profundidad de datos s\IeC {\'\i }smicos}{11}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}Importancia del modelo de velocidad}{13}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}Velocidades}{13}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.3}Herramientas computacionales}{17}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.1}Opendtect}{21}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.2}Madagascar}{24}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.3}Seismic Unix}{31}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Estimaci\IeC {\'o}n de velocidad de intervalo}{33}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}Estimaci\IeC {\'o}n de velocidad de intervalo utilizando ecuaci\IeC {\'o}n de Dix}{34}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}Estimaci\IeC {\'o}n de velocidad de intervalo utilizando teor\IeC {\'\i }a de rayos paraxiales}{35}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.3}Caso I}{40}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.4}Caso II}{44}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Discusi\IeC {\'o}n}{47}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Conclusiones y recomendaciones}{49}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Agradecimientos}{51}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Referencias}{53}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Ap\IeC {\'e}ndice A}{57}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Ap\IeC {\'e}ndice B}{65}
