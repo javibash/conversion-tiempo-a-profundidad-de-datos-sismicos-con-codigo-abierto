@@ -10,7 +10,7 @@ Este es un documento de tesis académica que aborda la **conversión de datos s�
 **Programa:** Ingeniería Geofísica  
 **Fecha:** Mayo 2018  
 **Director de Tesis:** Sergio Chávez Pérez  
-**Asesor Interno:** José Castillo Román  
+
 
 ---
 
